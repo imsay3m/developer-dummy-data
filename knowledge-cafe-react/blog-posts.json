@@ -1,0 +1,72 @@
+[
+	{
+		"id": 1,
+		"author": "John Doe",
+		"author_image": "https://i.ibb.co/cNXKSRc/Man-wearing-green-polo-shirt.jpg",
+		"posted_date": "2024-04-25",
+		"read_time": 10,
+		"post_title": "Exploring AI in Everyday Life",
+		"post_hashtag": [
+			"AI",
+			"Technology",
+			"Innovation"
+		],
+		"post_image": "https://i.ibb.co/gtWVkZ6/Exploring-AI-in-Everyday-Life.jpg"
+	},
+	{
+		"id": 2,
+		"author": "Jane Smith",
+		"author_image": "https://i.ibb.co/hXMZJSH/Portrait-of-black-female-Smiling-and-happy-expression-Studio-photo.jpg",
+		"posted_date": "2024-04-24",
+		"read_time": 8,
+		"post_title": "The Art of Cooking: From Kitchen to Table",
+		"post_hashtag": [
+			"Cooking",
+			"Food",
+			"Recipes"
+		],
+		"post_image": "https://i.ibb.co/wLhxv7S/The-Art-of-Cooking-From-Kitchen-to-Table.jpg"
+	},
+	{
+		"id": 3,
+		"author": "Hannah Johnson",
+		"author_image": "https://i.ibb.co/8M3qwmm/Portrait-of-adult-female-senior-Confident-expression-Studio-photo.jpg",
+		"posted_date": "2024-04-23",
+		"read_time": 15,
+		"post_title": "Travel Photography: Capturing the World's Beauty",
+		"post_hashtag": [
+			"Travel",
+			"Photography",
+			"Adventure"
+		],
+		"post_image": "https://i.ibb.co/jLRNs7k/Travel-Photography-Capturing-the-World-039-s-Beauty.jpg"
+	},
+	{
+		"id": 4,
+		"author": "Emily Brown",
+		"author_image": "https://i.ibb.co/9mPGgR7/A-woman-wearing-glasses-and-a-purple-sweater.jpg",
+		"posted_date": "2024-04-22",
+		"read_time": 12,
+		"post_title": "Effective Time Management Tips for Professionals",
+		"post_hashtag": [
+			"Productivity",
+			"TimeManagement",
+			"Work"
+		],
+		"post_image": "https://i.ibb.co/Sv1QTQF/Effective-Time-Management-Tips-for-Professionals.jpg"
+	},
+	{
+		"id": 5,
+		"author": "Michael Carter",
+		"author_image": "https://i.ibb.co/d7yPBS5/Portrait-of-Indian-male-Smiling-and-happy-expression-Studio-portrait.jpg",
+		"posted_date": "2024-04-21",
+		"read_time": 7,
+		"post_title": "Fitness and Wellness: A Holistic Approach",
+		"post_hashtag": [
+			"Fitness",
+			"Wellness",
+			"Health"
+		],
+		"post_image": "https://i.ibb.co/JCkQH11/Fitness-and-Wellness-A-Holistic-Approach.jpg"
+	}
+]
